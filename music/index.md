@@ -43,3 +43,15 @@
 ## 2月28日
 [I LOVE U](http://www.kuwo.cn/play_detail/238691132)  
 ![I LOVE U](3202470885.jpg "I LOVE U")
+
+## 2月29日
+[人间应又雪](http://www.kuwo.cn/play_detail/311449076)  
+![人间应又雪](3501801568.jpg "人间应又雪")
+
+## 3月1日
+[一花依世界](http://www.kuwo.cn/play_detail/52327750)  
+![一花依世界](3501801568.jpg)
+
+## 3月2日
+[朝汐(Single Version)](http://www.kuwo.cn/play_detail/55385622)
+![潮汐(Single Version)](1827946107.jpg "潮汐")

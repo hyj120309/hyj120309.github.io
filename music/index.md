@@ -50,6 +50,7 @@
 
 ## 3月1日
 [一花依世界](http://www.kuwo.cn/play_detail/52327750)  
+
 ![一花依世界](3501801568.jpg "一花依世界")
 
 ## 3月2日
@@ -73,5 +74,19 @@
 ![三月雨](2907528638.jpg "三月雨")
 
 ## 3月7日
-[自然物语](http://www.kuwo.cn/play_detail/21325706)
+[自然物语](http://www.kuwo.cn/play_detail/21325706)  
 ![自然物语](3012585193.jpg "自然物语")
+
+## 3月8日
+[Fell Your Dream](http://www.kuwo.cn/play_detail/21325702)  
+![Fell Your Dream](3012585193.jpg "Fell Your Dream")
+
+## 3月9日
+[风萤月](www.kuwo.cn/play_detail/21325703)  
+![风萤月](3012585193.jpg "风萤月")
+
+## 3月10日
+[普通DISCO](http://www.kuwo.cn/play_detail/10967140)  
+![普通DISCO](3501801568.jpg "普通DISCO")
+``` 这是中文VOCALOID第一首神话曲！ ```
+这是中文VOCALOID**第一首**神话曲！

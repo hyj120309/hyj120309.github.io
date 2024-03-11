@@ -87,7 +87,7 @@
 
 ## 3月10日
 [普通DISCO](http://www.kuwo.cn/play_detail/10967140)  
-![普通DISCO](3501801568.jpg "普通DISCO")
+![普通DISCO](3501801568.jpg "普通DISCO")  
 ` 这是中文VOCALOID第一首神话曲！ `
 > 我想起那天晚上也是在这，咱们一起拥有了中文Vocaloid第一首传说曲。
 > 撒花，唱歌，我们普通的摇，无比快乐。

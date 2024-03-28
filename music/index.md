@@ -1,7 +1,6 @@
 # 每日一曲
 ###### 为什么只有洛天依呢？为什么只有洛天依呢？
 天依天依，天下第一。华风夏韵，洛水天依。  
-[表格版](chart.md)
 
 ## 2月20日
 [Time to Shine](http://www.kuwo.cn/play_detail/192223628)
@@ -104,3 +103,8 @@
 ## 3月11日
 [万分之一的光](http://www.kuwo.cn/play_detail/238691098)  
 ![万分之一的光](3202470885.jpg "万分之一的光")
+
+## 3月28日
+### 声库分享站开始施工了！
+### 每日一曲
+[Let it go](https://y.qq.com/n/ryqq/songDetail/002P1owT3YRCd2)

@@ -3,3 +3,7 @@
 
 ## 全部声库
 [链接](https://pan.huang1111.cn/s/4YGWsg)
+
+## 分类
+### V4
+[编辑器](v4/editor.md)

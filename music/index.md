@@ -108,3 +108,7 @@
 ### 声库分享站开始施工了！
 ### 每日一曲
 [Let it go](https://y.qq.com/n/ryqq/songDetail/002P1owT3YRCd2)
+
+## 4月3日
+[为了你唱下去](https://music.163.com/#/song?id=420397887)
+算了，不放图了，人太懒了...

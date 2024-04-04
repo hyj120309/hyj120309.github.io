@@ -113,5 +113,5 @@
 [为了你唱下去](https://music.163.com/#/song?id=420397887)
 算了，不放图了，人太懒了...
 
-[心印](http://www.kuwo.cn/play_detail/238691063)
-![心印](3202470885.jpg)
+## 4月4日
+[心印](https://music.163.com/#/song?id=29163136)
